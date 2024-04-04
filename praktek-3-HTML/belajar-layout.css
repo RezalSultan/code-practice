@@ -1,0 +1,42 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: "MedievalSharp", cursive;
+}
+
+header {
+	background-color: brown;
+	padding: 16px;
+	/* margin: 16px;  */
+}
+
+footer {
+	background-color: blue;
+	padding: 16px;
+}
+
+main {
+	display: flex;
+	justify-content: start;
+	align-items: start;
+}
+
+aside {
+	background-color: chartreuse;
+	padding: 12px;
+	align-self: stretch;
+}
+
+li {
+	list-style-type: none;
+}
+
+section {
+	background-color: aquamarine;
+	padding: 12px;
+}
+
+article {
+	background-color: coral;
+	padding: 12px;
+}
