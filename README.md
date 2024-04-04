@@ -1,4 +1,4 @@
-# Selamat Datang di Repositori!
+# Selamat Datang di Repositori Praktek Kode!
 
 Di repositori ini, kamu akan menemukan berbagai macam praktek koding yang telah dilakukan. Kami percaya bahwa praktek adalah kunci untuk menguasai keterampilan pemrograman. Setiap kode yang ada di sini adalah hasil dari praktek koding untuk terus belajar dan berkembang.
 
